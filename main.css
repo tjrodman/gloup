@@ -7,8 +7,8 @@ body {
 /*    background-color: #9FB1BC;*/
     background-color: #4A6681;
     color: #D3D0CB;
-    width: 900px;
-    margin: auto;
+    width: 800px;
+    margin-left: 340px;
     font-size: 14px;
     font-family: 'Roboto Slab', serif;
     font-weight: 300;
@@ -19,15 +19,23 @@ header {
     left: 0px;
     top: 0px;
     bottom: 0px;
-    
     width: 220px;
     background-color: #6E8898;
 }
 
 section {
-    width: 300px;
-    float: left;
-    margin-top: 170px;
+    padding-top: 80px;
+    width: 800px;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    color: #9FB1BC;
+}
+
+section h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #D3D0CB;
 }
 
 header img {
@@ -50,6 +58,7 @@ h2 {
     font-family: 'Open Sans', sans-serif;
     font-family: 300;
 }
+
 
 ul {
     list-style-type: none;
